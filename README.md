@@ -1,0 +1,2 @@
+# gooda
+kotob
